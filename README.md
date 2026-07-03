@@ -82,36 +82,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots inside the **images/** folder.
-
-Example:
-
-```
-images/home.png
-images/translation.png
-images/audio.png
-```
-
-Then display them like this:
-
-```markdown
-## Home Page
-
-![Home](images/home.png)
-
-## Translation Result
-
-![Translation](images/translation.png)
-
-## Audio Output
-
-![Audio](images/audio.png)
-```
-
----
-
 ## 📋 Requirements
 
 ```
